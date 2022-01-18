@@ -1,4 +1,4 @@
-var nome = 'Ricardo'
+var nome = 'Amanda'
 teste = nome.substring(0,1)
 
 
